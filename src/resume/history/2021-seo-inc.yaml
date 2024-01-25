@@ -1,0 +1,25 @@
+---
+include:
+    - All
+exclude:
+    - Graphic Designer
+titles:
+    default: Head of Education
+    Front End Developer: Front End Developer
+    WordPress Developer: WordPress Developer
+company: SEO, Inc.
+location: Remote
+url: https://www.example.com/
+type: Freelance
+dates:
+    start: 2021-03
+    end: 2022-05
+skills:
+    base:
+        - SEO
+    default:
+        - PHP
+descriptions:
+    default: Identified education opportunities in SEO. Integrated SEO Prompts content into existing marketing materials. Planned out the creation of a new educational program. Coordinated with the marketing team to create the contents of the educational product. Researched, designed, and developed the technical elements for the educational platform.
+    Front End Developer: Designed and developed custom solutions for delivering a new educational program using WordPress with Divi. Worked closely with the marketing team.
+    WordPress Developer: Designed and developed custom solutions for delivering a new educational program using WordPress, Divi, LearnDash, and WooCommerce. Worked closely with the marketing team.

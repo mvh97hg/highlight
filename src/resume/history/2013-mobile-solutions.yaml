@@ -1,0 +1,29 @@
+---
+include:
+    - All
+titles:
+    default: Web Developer
+    Graphic Designer: In-House Graphic Designer
+company: Mobile Solutions, Inc.
+location: City, State, USA
+url: https://www.example.com
+type: Full-time
+dates:
+    start: 2013-01
+    end: 2015-04
+skills:
+    base:
+        - Ruby
+        - HTML
+        - CSS
+        - JavaScript
+        - Agile Methodologies
+    default:
+        - Ruby on Rails
+        - Quality Assurance
+        - Website Optimization
+    Online Marketer:
+        - Keyword Research
+descriptions:
+    default: Created and improved UX and UI in an Agile work environment. Front-end development with Ruby on Rails. Designed and managed our front-facing business website. Communicated with engineers and business development teams to establish design goals. Tested bugs for Quality Assurance. Identified keyword opportunities and website optimization.
+    WordPress Developer: Created and improved UX and UI in an Agile work environment. Managed front-end design and development. Communicated with engineers and business development teams to establish design goals. Tested bugs for Quality Assurance. Identified keyword opportunities and website optimization.

@@ -1,0 +1,29 @@
+---
+include:
+    - All
+titles:
+    default: Search Engine Marketer
+    Front End Developer: Web Manager
+    Graphic Designer: In-House Graphic Designer
+company: Health Center Inc.
+location: City, State, USA
+url: https://www.example.com/
+type: Full-time
+dates:
+    start: 2012-04
+    end: 2013-01
+skills:
+    base:
+        - Content Marketing
+        - Search Engine Marketing
+    default:
+        - Keyword Research
+        - Google Analytics
+        - Google Ads Manager
+        - Adobe InDesign
+        - Adobe Photoshop
+    Graphic Design:
+        - Copy Writing
+        - Graphic Design
+descriptions:
+    default: Identified keyword opportunities, created keyword-focused content to generate business inquiries, maintained and optimized the website, designed magazine ads and internal marketing visuals.

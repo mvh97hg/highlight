@@ -1,0 +1,21 @@
+---
+include:
+    - All
+titles:
+    default: Web Coordinator
+    Graphic Designer: UX/UI Designer
+company: Health Magazine
+location: City, State, USA
+url: https://www.example.com/
+type: Full-time
+dates:
+    start: 2015-10
+    end: 2016-06
+skills:
+    base:
+        - Web Design
+        - WordPress
+    default:
+        - Photoshop
+descriptions:
+    default: Identified opportunities for improved performance on the front-facing website. Designed and implemented necessary marketing graphics. UX and UI testing and design, implemented custom development solutions to improve visual data results when searching for restaurants or dishes.

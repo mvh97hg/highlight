@@ -1,0 +1,30 @@
+---
+include:
+    - All
+titles:
+    default: Independent Contractor
+    Front End Developer: Web Designer and Developer
+    WordPress Developer: WordPress Designer and Developer
+    Graphic Designer: Web and Graphic Design
+company: Self
+location: Remote
+url: https://www.example.com
+type: Freelance
+dates:
+    start: 2012-01
+    end: Present
+skills:
+    base:
+        - PHP
+        - MySQL
+        - Node.js
+    default:
+        - WordPress
+        - DaVinci Resolve
+        - Next.js
+        - Gatsby.js
+    Graphic Designer:
+        - Adobe Creative Suite
+        - Affinity Designer
+descriptions:
+    default: Managing remote clients globally. Work including ad-hoc services, graphic, design, branding, WordPress plugin and theme development, general web development, data analysis, educational platform design, online marketing services, support, and consulting.
